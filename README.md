@@ -24,7 +24,7 @@ Cada uma das duas possui um diretório própio onde deverão adicionar seus cód
 
 ### Etapa 2: Desenvolvimento Colaborativo
 - As alunas trabalharão em suas respectivas branches, fazendo commits frequentemente para registrar o progresso.
-- **Pull Requests**: Quando uma aluna terminar sua parte, ela realizará um pull request para a branch principal (`main`), que será revisado pela outra aluna.
+- **Pull Requests**: Quando uma aluna terminar sua parte, ela realizará um pull request para a branch principal (`main`), que será revisado pelo seu gerente (EU).
 - **Merge e Resolução de Conflitos**: Caso haja conflitos no código, as alunas devem trabalhar juntas para resolvê-los, promovendo a colaboração e a revisão de código.
 
 ### Etapa 3: Testes e Validação
